@@ -1,0 +1,129 @@
+*{
+                                             padding: 0;
+                                             margin: 0;
+                                             box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+.top{
+                                             
+                                           background-image: url(./1.jpg);
+                                             background-repeat: no-repeat;
+                                             background-size: cover;
+                                             height: 600px;
+                                             color: white;
+                                         }
+                                         
+                                         
+                                         .icons{
+                                            float: right;
+                                            margin-top: -3rem;
+                                            margin-right: 2rem;
+                                         }
+                                         
+                                         
+                                         .icons i{
+                                             margin-right: 2rem;
+                                         }
+                                         
+                                         .br{
+                                             border-radius: 30px;
+ }
+                                         
+                                         
+ nav li:hover{
+ background: orange;
+  }
+                                         
+.tt{
+margin-top: 9rem;
+ color: rgb(45, 112, 212);
+font-size: 80px;
+ }
+
+
+.difer{
+ background: rgba(26, 25, 25, 0.3);
+ }
+
+
+ .b{
+                                              height: 150px;
+                                             border-radius: 50%;
+                                             margin-top: 3rem;
+ }
+
+ .lt{
+                                              margin-top: 5rem;
+ }
+
+ .dan{
+                                              margin-left: 3rem;
+ }
+
+ .nics{
+                                              margin-top: 5rem;
+ }
+
+ .ggg{
+                                              border-radius: 30px;
+                                              margin-top: 2rem;
+ }
+
+ .same{
+                                              margin-top: -5rem;
+ }
+
+ .ii{
+                                              margin-left: 9rem;
+                                              border-radius: 30px;
+                                              width: 20rem;
+ }
+
+
+ .ggg:hover{
+                                              background: transparent;
+ }
+
+
+ .bara{
+                                              height: 400px;
+ }
+
+ .chota{
+                                              margin-top: -10rem;
+                                              margin-left: 11rem;
+ }
+
+ .nfd{
+                                              margin-top: 5rem;
+}
+
+.ka{
+                                             border-radius: 50%;
+                                             margin-right: 2rem;
+                                             height: 150px;
+}
+
+.hc{
+                                             background: blue;
+}
+
+input{
+                                             width: 15rem;
+                                             border-radius: 30px;
+                                             height: 2.5rem;
+}
+
+.ss{
+                                             border-radius: 30px;
+                                             height: 2.4rem;
+                                             
+}
